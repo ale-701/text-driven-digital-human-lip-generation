@@ -1,0 +1,3 @@
+文本不要太长 不能超过视频 不然的话生成的视频保存有问题 后面增强读取会报错一直卡住
+bash  run.sh "The wind whispers softly through the trees, Carrying secrets with the breeze. A gentle hum, a tender sigh, As clouds drift slowly through the sky. The sun, it paints a golden hue, On leaves that shimmer, fresh with dew. The world spins on with quiet grace" /home/zxy/wav2lip/Wav2Lip/qh/main/00001.mp4 /home/zxy/Easy-Wav2Lip/audio.wav "A text-to-speech model based on VQ-GAN and Llama developed by Fish Audio"
+bash  run.sh "The wind whispers softly through the trees." /home/zxy/LatentSync-main/assets/demo1_video.mp4 /home/zxy/Easy-Wav2Lip/audio.wav "A text-to-speech model based on VQ-GAN and Llama developed by Fish Audio"
